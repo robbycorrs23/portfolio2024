@@ -1,0 +1,21 @@
+.portfolio-container {
+  padding: 100px 20px;
+  background-color: #0b0c10;
+  color: #c5c6c7;
+  text-align: center;
+  max-width: 1000px;
+  margin: auto;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66fcf1;
+  margin-bottom: 50px;
+}
+
+.portfolio-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
